@@ -1,2 +1,2 @@
-# Coursera-Repo minor update
+# Coursera-Repo
 Practice account for learning Git
