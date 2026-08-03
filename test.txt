@@ -1,1 +1,1 @@
-Making little adjustments to this file.
+Using GitHUb to modify this file.
